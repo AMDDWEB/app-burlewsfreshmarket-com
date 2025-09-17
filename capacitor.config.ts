@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.a2adv.hometownfoodsia',
-  appName: 'Hometown Foods IA',
+  appId: 'com.a2adv.burlewsfreshmarket',
+  appName: 'Burlew's Fresh Market',
   webDir: 'dist',
   server: {
     androidScheme: 'https'

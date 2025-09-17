@@ -1,4 +1,4 @@
-package com.a2adv.hometownfoodsia;
+package com.a2adv.burlewsfreshmarket;
 
 import com.getcapacitor.BridgeActivity;
 
