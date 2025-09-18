@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Burlew's Fresh Market</string>
-    <string name="title_activity_main">Burlew's Fresh Market</string>
+    <string name="app_name">Burlews</string>
+    <string name="title_activity_main">Burlews</string>
     <string name="package_name">com.a2adv.burlewsfreshmarket</string>
     <string name="custom_url_scheme">com.a2adv.burlewsfreshmarket</string>
 </resources>

@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.a2adv.burlewsfreshmarket',
-  appName: 'Burlew's Fresh Market',
+  appName: 'Burlews',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
